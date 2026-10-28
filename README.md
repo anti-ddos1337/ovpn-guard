@@ -25,6 +25,6 @@ A robust, production-grade OpenVPN installer and interactive TUI user manager fo
 Run the installer via terminal as `root`:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/openvpn-manager.git](https://github.com/YOUR_USERNAME/openvpn-manager.git)
+git clone [https://github.com/anti-ddos1337/openvpn-manager.git](https://github.com/anti-ddos1337/openvpn-manager.git)
 cd openvpn-manager
 sudo bash openvpn-manager.sh
